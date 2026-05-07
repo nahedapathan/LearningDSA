@@ -1,4 +1,4 @@
-package Day9Array01;
+package day9Array01;
 
 public class SwapAlternateExtremeElementArray {
 
